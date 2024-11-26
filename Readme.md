@@ -68,6 +68,6 @@ songs before exiting.
 
 # Customizable Settings:
   You can modify these parameters in the script:
-      SONGS_LIMIT: Number of albums to process per artist.
-      TIME_TO_LISTEN: Time to "listen" to each song in seconds.
+      - SONGS_LIMIT: Number of albums to process per artist.
+      - TIME_TO_LISTEN: Time to "listen" to each song in seconds.
 
