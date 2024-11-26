@@ -67,7 +67,7 @@ An Excel file (albums_data.xlsx) is also created for additional formatting and c
 songs before exiting.
 
 # Customizable Settings:
-  You can modify these parameters in the script:
-      - SONGS_LIMIT: Number of albums to process per artist.
-      - TIME_TO_LISTEN: Time to "listen" to each song in seconds.
+You can modify these parameters in the script:
+    - SONGS_LIMIT: Number of albums to process per artist.
+    - TIME_TO_LISTEN: Time to "listen" to each song in seconds.
 
