@@ -5,14 +5,15 @@ This Python script scrapes track titles and their links from Bandcamp for a give
 ---
 
 ## Table of Contents
-- [Introduction](#bandcamp-album-scraper) 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output](#output)
-- [Important Notes](#important-notes)
-- [Customizable Settings](#customizable-settings)
+
+1. **[Introduction](#introduction)**
+2. **[Features](#features)**
+3. **[Requirements](#requirements)**
+4. **[Installation](#installation)**
+5. **[Usage](#usage)**
+6. **[Output](#output)**
+7. **[Important Notes](#important-notes)**
+8. **[Customizable Settings](#customizable-settings)**
 
 ## Features
 
